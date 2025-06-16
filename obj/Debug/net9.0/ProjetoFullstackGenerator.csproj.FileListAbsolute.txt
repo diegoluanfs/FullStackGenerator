@@ -1,0 +1,14 @@
+C:\Development\ProjetoFullstackGenerator\bin\Debug\net9.0\ProjetoFullstackGenerator.exe
+C:\Development\ProjetoFullstackGenerator\bin\Debug\net9.0\ProjetoFullstackGenerator.deps.json
+C:\Development\ProjetoFullstackGenerator\bin\Debug\net9.0\ProjetoFullstackGenerator.runtimeconfig.json
+C:\Development\ProjetoFullstackGenerator\bin\Debug\net9.0\ProjetoFullstackGenerator.dll
+C:\Development\ProjetoFullstackGenerator\bin\Debug\net9.0\ProjetoFullstackGenerator.pdb
+C:\Development\ProjetoFullstackGenerator\obj\Debug\net9.0\ProjetoFullstackGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\ProjetoFullstackGenerator\obj\Debug\net9.0\ProjetoFullstackGenerator.AssemblyInfoInputs.cache
+C:\Development\ProjetoFullstackGenerator\obj\Debug\net9.0\ProjetoFullstackGenerator.AssemblyInfo.cs
+C:\Development\ProjetoFullstackGenerator\obj\Debug\net9.0\ProjetoFullstackGenerator.csproj.CoreCompileInputs.cache
+C:\Development\ProjetoFullstackGenerator\obj\Debug\net9.0\ProjetoFullstackGenerator.dll
+C:\Development\ProjetoFullstackGenerator\obj\Debug\net9.0\refint\ProjetoFullstackGenerator.dll
+C:\Development\ProjetoFullstackGenerator\obj\Debug\net9.0\ProjetoFullstackGenerator.pdb
+C:\Development\ProjetoFullstackGenerator\obj\Debug\net9.0\ProjetoFullstackGenerator.genruntimeconfig.cache
+C:\Development\ProjetoFullstackGenerator\obj\Debug\net9.0\ref\ProjetoFullstackGenerator.dll
